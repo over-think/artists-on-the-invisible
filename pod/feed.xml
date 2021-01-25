@@ -7,22 +7,22 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   version="2.0">
   <channel>
-    <title>Creative Engineering</title>
-    <googleplay:author>Rody Davis, Norbert Kozsir</googleplay:author>
+    <title>Artists On The Invisible</title>
+    <googleplay:author>Brianna Ibarra Galbreath</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>San Francisco, California</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Rody Davis, Norbert Kozsir</author>
-    <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
+    <author>Brianna Ibarra Galbreath</author>
+    <itunes:author>Brianna Ibarra Galbreath</itunes:author>
     <itunes:email>rody.davis.jr@gmail.com</itunes:email>
     <itunes:category text="Technology" />
     <image>
       <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
-      <title>Creative Engineering</title>
+      <title>Artists On The Invisible</title>
       <link>https://rodydavis.github.io/podcast-player/</link>
     </image>
     <itunes:owner>
-      <itunes:name>Rody Davis</itunes:name>
+      <itunes:name>Brianna Ibarra Galbreath</itunes:name>
       <itunes:email>rody.davis.jr@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
