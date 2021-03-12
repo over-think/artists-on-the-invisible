@@ -1,5 +1,5 @@
 # Podcast Player
 
-- Podcast RSS Feed: https://rodydavis.github.io/podcast-player/feed.xml
+- Podcast RSS Feed: https://over-think.github.io/artists-on-the-invisible/feed.xml
 
-- Podcast Player: https://rodydavis.github.io/podcast-player/
+- Site: https://over-think.github.io/artists-on-the-invisible/
